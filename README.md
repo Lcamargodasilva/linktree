@@ -4,6 +4,9 @@
 
 Objetivo: criar uma página com um menu, capaz de direcionar o usuário para perfis de redes sociais.
 
+
+[Página Finalizada](https://lcamargodasilva.github.io/linktree)
+
  <img src="projeto.png">
 
 ## Tecnologias utilizadas
